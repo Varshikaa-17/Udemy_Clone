@@ -10,7 +10,7 @@ Static content layout similar to Udemy's landing page
 Includes navigation bar, course cards, and footer
 
 ## Installation
-Clone the repository: git clone https://github.com/your-username/udemy-clone.git
+Clone the repository: git clone https://varshikaa-17.github.io/Udemy_Clone/
 Navigate into the project directory: cd udemy-clone
 
 ## Usage
